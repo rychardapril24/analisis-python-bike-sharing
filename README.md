@@ -3,7 +3,7 @@
 1. Install library
 
    ```shell
-  pip install numpy pandas matplotlib seaborn
+     pip install numpy pandas matplotlib seaborn
 
    ```
 
