@@ -7,7 +7,7 @@
 
    ```
 
-2. Install Streamlit (Biasanya Include Panda)
+2. Install Streamlit 
 
     ```shell
     pip install streamlit
