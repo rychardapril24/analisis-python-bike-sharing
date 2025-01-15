@@ -1,6 +1,6 @@
 ##Library
 
-1. Install Seaborn
+1. Install library
 
    ```shell
   pip install numpy pandas matplotlib seaborn
